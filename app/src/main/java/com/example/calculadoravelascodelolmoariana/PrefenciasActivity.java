@@ -28,6 +28,7 @@ public class PrefenciasActivity extends Activity implements View.OnClickListener
     private Button btnGuardar;
 
 
+    @RequiresApi(api = Build.VERSION_CODES.M)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
