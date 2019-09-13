@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">CalculadoraVelascodelOlmoAriana</string>
+    <string name="n0">0</string>
+    <string name="n1">1</string>
+    <string name="n2">2</string>
+    <string name="n3">3</string>
+    <string name="n4">4</string>
+    <string name="n5">5</string>
+    <string name="n6">6</string>
+    <string name="n7">7</string>
+    <string name="n8">8</string>
+    <string name="n9">9</string>
+    <string name="ac">AC</string>
+    <string name="igual">=</string>
+    <string name="suma">+</string>
+    <string name="resta">-</string>
+    <string name="dividir">/</string>
+    <string name="multiplicar">x</string>
+    <string name="punto">.</string>
+    <string name="aliasApp">CALCULADORA</string>
+    <string name="operacion_fallida">No se ha podido realizar la operación.</string>
+    <string name="faltan_datos">Por favor introduzca algún número.</string>
+    <string name="dividir_0">No se puede dividir por cero.</string>
+    <string name="dos_decimales">No se puede añadir otro signo decimal al número.</string>
+    <string name="infinito">Infinito</string>
+    <string name="sumar_log"> OP.SUMA - </string>
+    <string name="multiplicar_log"> OP.MULTIPLICAR - </string>
+    <string name="dividir_log"> OP.DIVIDIR - </string>
+    <string name="restar_log"> OP.RESTA - </string>
+    <string name="titulo_preferencias">Preferencias</string>
+
+    <string name="red">#F6402C</string>
+    <string name="pink">#EB1460</string>
+    <string name="purple">#9C1AB1</string>
+    <string name="blue">#1093F5</string>
+    <string name="green">#46AF4A</string>
+    <string name="amber">#FFC100</string>
+    <string name="grey">#9D9D9D</string>
+    <string name="white">#FFFFFF</string>
+
+    <string name="guardar">Guardar</string>
+    <string name="colorFondo">Seleccionar el color de fondo:</string>
+
+
+</resources>
