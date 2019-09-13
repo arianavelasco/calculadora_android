@@ -12,6 +12,8 @@ import android.widget.Button;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 
+import androidx.annotation.RequiresApi;
+
 import java.util.Map;
 import java.util.TreeMap;
 
@@ -62,6 +64,7 @@ public class PrefenciasActivity extends Activity implements View.OnClickListener
     }
 
 
+    @RequiresApi(api = Build.VERSION_CODES.M)
     public String transformarColorIntTexto(Context cntxt, int colorInt) {
 
         if (colorInt == cntxt.getColor(R.color.pink)) {
